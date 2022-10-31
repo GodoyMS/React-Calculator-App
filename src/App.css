@@ -1,9 +1,17 @@
-.App {
+* {
+  font-family: sans-serif;
+
+}
+h1{
   text-align: center;
 }
-
+.Input-Output, input{
+  margin-left:25vw;
+  margin-right:25vw;
+  
+}
 .App-logo {
-  height: 40vmin;
+ height: 10vh;
   pointer-events: none;
 }
 
@@ -15,24 +23,88 @@
 
 .App-header {
   background-color: #282c34;
-  min-height: 100vh;
+  min-height: 10vh;
   display: flex;
   flex-direction: column;
   align-items: center;
+
+}
+
+
+.Buttons-math{
+  display:flex;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
+  flex-wrap: wrap;
+  column-gap: 1rem;
+}
+
+.Buttons-result{
+  padding-top:2rem;
+  display:flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  column-gap: 2rem;
+}
+.Input-Output{
+display: flex;
+flex-wrap: wrap;
+column-gap: 3rem;
+justify-content: center;
+margin:1rem 7rem;
+}
+p{
+  display: flex;
+  padding:0.5rem;
+  justify-content: center;
+  flex-basis:200px;
+  border-radius: 1rem;
+
+}
+ form p:nth-last-child(1){
+  
+  
+  
+  background-color: rgb(179, 196, 196);
+}
+input{
+  margin: auto;
+  font-size: 20px;
+  padding: 10px;
+  border-radius: 5px;
+ 
+
+}
+input {
+  display: block;
+  margin-bottom: 20px;
+}
+button {
+  border: 1px solid gray;
+  background: whitesmoke;
+  margin-right: 5px;
+  font-size: 20px;
+  padding: 10px;
+  border-radius: 5px;
+}
+.Buttons-result button {
+  background: tomato;
   color: white;
 }
+footer{
+  
 
-.App-link {
-  color: #61dafb;
+  
+  position:absolute;
+  bottom:0;
+  width:100%;
+  height:200px;   /* Height of the footer */
+  background:rgb(27, 101, 138);
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  column-gap: 5rem;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+footer p{
+  color:white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
