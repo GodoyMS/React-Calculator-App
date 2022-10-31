@@ -1,16 +1,16 @@
 {
-  "files": {
-    "main.css": "/static/css/main.86d7eae7.css",
-    "main.js": "/static/js/main.20bdf929.js",
-    "static/js/787.41687786.chunk.js": "/static/js/787.41687786.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.86d7eae7.css.map": "/static/css/main.86d7eae7.css.map",
-    "main.20bdf929.js.map": "/static/js/main.20bdf929.js.map",
-    "787.41687786.chunk.js.map": "/static/js/787.41687786.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.86d7eae7.css",
-    "static/js/main.20bdf929.js"
-  ]
+  "main.css": "/rReact-Calculator-Appeact-calculator-app/static/css/main.07445a55.chunk.css",
+  "main.js": "/rReact-Calculator-Appeact-calculator-app/static/js/main.52fa233b.chunk.js",
+  "main.js.map": "/rReact-Calculator-Appeact-calculator-app/static/js/main.52fa233b.chunk.js.map",
+  "static/js/1.69e0dab0.chunk.js": "/rReact-Calculator-Appeact-calculator-app/static/js/1.69e0dab0.chunk.js",
+  "static/js/1.69e0dab0.chunk.js.map": "/rReact-Calculator-Appeact-calculator-app/static/js/1.69e0dab0.chunk.js.map",
+  "static/js/2.bd67aa57.chunk.js": "/rReact-Calculator-Appeact-calculator-app/static/js/2.bd67aa57.chunk.js",
+  "static/js/2.bd67aa57.chunk.js.map": "/rReact-Calculator-Appeact-calculator-app/static/js/2.bd67aa57.chunk.js.map",
+  "runtime~main.js": "/rReact-Calculator-Appeact-calculator-app/static/js/runtime~main.0c57cdc9.js",
+  "runtime~main.js.map": "/rReact-Calculator-Appeact-calculator-app/static/js/runtime~main.0c57cdc9.js.map",
+  "static/media/logo.svg": "/rReact-Calculator-Appeact-calculator-app/static/media/logo.06e73328.svg",
+  "static/css/main.07445a55.chunk.css.map": "/rReact-Calculator-Appeact-calculator-app/static/css/main.07445a55.chunk.css.map",
+  "index.html": "/rReact-Calculator-Appeact-calculator-app/index.html",
+  "precache-manifest.bb8a866884c5d39c5b38d2e6380c42a2.js": "/rReact-Calculator-Appeact-calculator-app/precache-manifest.bb8a866884c5d39c5b38d2e6380c42a2.js",
+  "service-worker.js": "/rReact-Calculator-Appeact-calculator-app/service-worker.js"
 }
