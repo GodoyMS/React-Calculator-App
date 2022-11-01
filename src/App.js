@@ -87,7 +87,6 @@
             
 
           </form> 
-          <footer><ExternalLink href="www.facebook.com"><img src={"https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png"} height="100" alt="github"/> </ExternalLink> <p>All Rights Reserved | Created by:Godoy Muñoz</p></footer>
         </div> 
 
         
